@@ -4,8 +4,8 @@ layout: default
 
 Weclome to **KDD 2020 Tutorial on Online User Engagement: Metrics and Optimization**.
 
-*  **Date**:
-*  **Location**:
+*  **Date**: August 24th, 8:00AM - 12:00PM Pacific Time
+*  **Location**: Virtual Conference
 
 You could also check out previous editions of similar tutorials:
 *  [**WWW 2019 Tutorial on Online User Engagement: Metrics and Optimizaiton**](www2019)
